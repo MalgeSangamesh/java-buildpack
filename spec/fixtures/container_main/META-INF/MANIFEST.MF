@@ -1,2 +1,3 @@
 Main-Class: test-main-class
 Class-Path: alpha.jar bravo.jar charlie.jar
+Build-Jdk: 1.8.0_11
